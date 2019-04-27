@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+}
+
+.width-image {
+    width:100%;  /*ширина для картинки*/
+    height: 500px;
+    background-image: url(../img/img1.png);
+    margin: auto;
+}
+
+.color-nav .navbar-nav a {
+color: aliceblue !important;
+}
+
+.button-img {
+    
+}
+
+.dot li {
+width: 10px;
+height: 10px;
+border-radius: 50%; /*смена вида индикаторов на карусели*/
+}
+
+
+
